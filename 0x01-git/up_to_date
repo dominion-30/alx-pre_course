@@ -1,0 +1,5 @@
+touch up_to_date
+command used >> up_to_date
+git add .
+git commit
+git push
